@@ -1,4 +1,4 @@
-# HW 2: Binary Search Trees
+# Binary Search Trees
 
 In this assignment you'll implement a binary search tree data
 structure. The operations you'll implement are:
